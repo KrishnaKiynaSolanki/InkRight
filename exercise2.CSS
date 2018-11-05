@@ -1,0 +1,12 @@
+a:link{background-color: red; color: white}
+
+*#about_blue{background-color: #6495ED; margin: 30px}
+ul.blue{color: blue}
+
+*#about_yellow{background-color: #FFEBCD; margin: 30px}
+ul.orange{color: orange}
+
+*#about_blue{border: 3px; border-style: solid; border-color: #black;}
+*#about_yellow{border: 3px; border-style: solid; border-color: #black;}
+
+li.important{font-size: 16px; font-weight: bold;}
